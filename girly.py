@@ -1,9 +1,3 @@
-#Assignment 2
-#Roshnica Gurung
-#rgurung@wm.edu
-#CSCI 312
-#Professor Timothy Davis
-
 import sys
 import string
 
